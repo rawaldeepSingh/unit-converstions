@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\UnitConversions\Tests;
+namespace Rawal\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Spatie\UnitConversions\Weight;

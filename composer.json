@@ -1,17 +1,17 @@
 {
-    "name": "spatie/unit-conversions",
+    "name": "rawal/unit-conversions",
     "description": "",
     "keywords": [
-        "spatie",
+        "rawal",
         "unit-conversions"
     ],
     "homepage": "https://github.com/spatie/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": "rawamdeep",
+            "name": "rawaldeep",
             "email": "rawaldeepsingh26@gmail.com",
-            "homepage": "https://spatie.be",
+            "homepage": "https://google.be",
             "role": "Developer"
         }
     ],
